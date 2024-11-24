@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MotsumiDarts
-- 👀 I’m interested in ESP, Ardhuino, MySQL, PHP, Linux
+- 👀 I’m interested in ESP, Arduino, MySQL, PHP, Laravel, Vue, Linux
 - 🌱 I’m currently learning Arduino IDE and IoT stuff, integration between inverters and GSK CNC Machines for power managament
 - 💞️ I’m looking to collaborate on lower level control of GSK PLC, ladder and I/O with a SQL backend 
 - 📫 How to reach me email david.motsumi@gmail.com
